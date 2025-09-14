@@ -1,11 +1,11 @@
-# Guía de estudio — POO básica en Java (sin colecciones)
+# Guía de estudio — POO básica en Java
 
 
 Este README está pensado para que puedas **repasar** y **practicar**: **clases, atributos, encapsulación, constructores, herencia simple y polimorfismo**. Incluye ejemplos breves, errores comunes, Retos y un checklist de autoevaluación.
 
 ---
 
-## 0) ¿Para quién es este material?
+## ¿Para quién es este material?
 - Estudiantes que están **empezando** con Java y POO.
 - Cursos donde **aún no** se han visto listas/arrays/colecciones.
 - Quienes necesitan una **ruta práctica** y clara para dominar lo básico.
